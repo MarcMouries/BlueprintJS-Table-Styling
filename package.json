@@ -1,0 +1,20 @@
+{
+  "name": "blueprintjs-table-styling",
+  "version": "1.0.0",
+  "description": "An example for 📦 repromised",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@blueprintjs/core": "3.0.1",
+    "@blueprintjs/table": "3.0.0",
+    "react": "16.3.2",
+    "react-dom": "16.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
